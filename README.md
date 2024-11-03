@@ -25,8 +25,8 @@ conda activate image_resolution
 
 ## 패키지 설치
 ```bash
-git clone https://github.com/UNI-D-datathon/image-resolution
-cd image-resolution
+git clone https://github.com/UNI-D-datathon/UNI-D-datathon
+cd UNI-D-datathon
 pip install -r requirements.txt
 ```
 
